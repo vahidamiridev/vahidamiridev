@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./main.jpg" alt="Vahid Amiri Banner" />
+  <img src="./main.jpg" alt="Vahid Amiri Banner"  width="25%" />
 </p>
 
 <h2 align="center">👨‍💻 Vahid Amiri | وحید امیری</h2>
