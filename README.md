@@ -22,33 +22,35 @@ I’m a Front-End Developer with expertise in React, Next.js, and JavaScript, fo
 ### 🚀 Tech Stack | مهارت‌های من
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> JavaScript | جاوااسکریپت  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" style="background-color:white;" />
+
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" />
+
+<img align="left" alt="Tailwind" width="30px" src="./tailwindImage.png" />
+
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="30" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" /> 
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" /> TypeScript | تایپ‌اسکریپت  
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> React.js | ری‌اکت  
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" style="background-color:white;" /> Next.js | نکست‌جی‌اس  
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" /> Redux | ری‌داکس  
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /> Tailwind CSS | تلویند  
-  <br />
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="30" /> Styled Components | استایلد کامپوننت  
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" /> Docker | داکر  
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" /> Git | گیت  
-  <br />
-  <img src="https://img.shields.io/badge/PWA-Progressive Web App-5A0FC8?style=flat&logo=googlechrome&logoColor=white" height="25" /> PWA  
-  <br />
-  <img src="https://img.shields.io/badge/Cypress-Testing-17202C?style=flat&logo=cypress&logoColor=white" height="25" /> Cypress | تست  
-  <br />
-  <img src="https://img.shields.io/badge/Jest-Testing-C21325?style=flat&logo=jest&logoColor=white" height="25" /> Jest | تست  
-  <br />
-  <img src="https://img.shields.io/badge/Regex-Pattern Matching-F76B1C?style=flat&logo=hackthebox&logoColor=white" height="25" /> Regex | عبارات باقاعده  
-  <br />
-  <img src="https://img.shields.io/badge/Scrum-Agile-3E7FC1?style=flat&logo=scrumalliance&logoColor=white" height="25" /> Scrum | اسکرام  
+  <img src="https://img.shields.io/badge/PWA-Progressive Web App-5A0FC8?style=flat&logo=googlechrome&logoColor=white" height="25" />
+
+  <img src="https://img.shields.io/badge/Cypress-Testing-17202C?style=flat&logo=cypress&logoColor=white" height="25" />
+
+  <img src="https://img.shields.io/badge/Jest-Testing-C21325?style=flat&logo=jest&logoColor=white" height="25" /> 
+
+  <img src="https://img.shields.io/badge/Regex-Pattern Matching-F76B1C?style=flat&logo=hackthebox&logoColor=white" height="25" />
+
+  <img src="https://img.shields.io/badge/Scrum-Agile-3E7FC1?style=flat&logo=scrumalliance&logoColor=white" height="25" /> 
 </p>
 
 ---
