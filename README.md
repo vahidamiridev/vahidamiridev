@@ -161,17 +161,19 @@ A modern, responsive website built for **Zafaraniyeh TVTO**, a technical and voc
 ---
 
 ## 🖼 Screenshots | تصاویر
-
-  <img src="./z1.png" height="25" /> 
-  <img src="./z2.png" height="25" /> 
-  <img src="./z3.png" height="25" /> 
-  <img src="./z4.png" height="25" /> 
-  <img src="./z4.png" height="25" /> 
+c
+  <img src="./z1.png" height="95" /> 
+  <img src="./z2.png" height="95" /> 
+  <img src="./z3.png" height="95" /> 
+  <img src="./z4.png" height="95" /> 
+  <img src="./z5.png" height="95" /> 
+</p>
   <br/>
-  <img src="./w1.png" height="25" /> 
-  <img src="./w2.png" height="25" /> 
-  <img src="./w3.png" height="25" /> 
-  
+  <p align="left">
+  <img src="./w1.png" width="95" /> 
+  <img src="./w2.png" width="95" /> 
+  <img src="./w3.png" width="95" /> 
+  <p/>
 
 
 ---
