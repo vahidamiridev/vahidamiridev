@@ -162,7 +162,17 @@ A modern, responsive website built for **Zafaraniyeh TVTO**, a technical and voc
 
 ## 🖼 Screenshots | تصاویر
 
-> 📌 می‌تونی در این بخش چند عکس از سایتت در اندازه‌های دسکتاپ و موبایل قرار بدی.
+  <img src="./z1.png" height="25" /> 
+  <img src="./z2.png" height="25" /> 
+  <img src="./z3.png" height="25" /> 
+  <img src="./z4.png" height="25" /> 
+  <img src="./z4.png" height="25" /> 
+  <br/>
+  <img src="./w1.png" height="25" /> 
+  <img src="./w2.png" height="25" /> 
+  <img src="./w3.png" height="25" /> 
+  
+
 
 ---
 
